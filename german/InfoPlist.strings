@@ -1,0 +1,19 @@
+/* Localized versions of Info.plist keys */
+
+/* short app icon name */
+CFBundleDisplayName = "Heiminhalte";
+
+/* iCloud folder name */
+NSUbiquitousContainerName = "Heiminhalte";
+
+/* camera usage info */
+NSCameraUsageDescription = "Die Kamera wird benötigt um Fotos aufzunehmen und Barcodes zu scannen.";
+
+/* Face ID usage info */
+NSFaceIDUsageDescription = "To unlock Home Contents using Face ID";
+
+/* Add photo usage info */
+NSPhotoLibraryAddUsageDescription = "To save photos to the Photos app";
+
+/* Photo usage info */
+NSPhotoLibraryUsageDescription = "To add item photos from the Photos app";

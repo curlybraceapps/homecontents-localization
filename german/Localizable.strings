@@ -1,0 +1,1286 @@
+/* 1 year warranty - expired 21/02/2019 */
+"%@ - expired %@" = "%@ - abgelaufen %@";
+
+/* 1 year warranty - (valid) until 21/04/2020 */
+"%@ - until %@" = "%@ - bis zum %@";
+
+/* Backup/Export failed */
+"%@ failed. %@" = "%@ fehlgeschlagen. %@";
+
+/* 1 item */
+"%@ item" = "%@ Artikel";
+
+/* 10 items */
+"%@ items" = "%@ Artikel";
+
+/* 1 month */
+"%@ month" = "%@ Monat";
+
+/* 10 months */
+"%@ months" = "%@ Monate";
+
+/* 1 year warranty or 10 year warranty */
+"%@ warranty" = "%@ Garantie";
+
+/* 1 year */
+"%@ year" = "%@ Jahr";
+
+/* 10 years */
+"%@ years" = "%@ Jahre";
+
+/* info message */
+"%@. Please use our web support page." = "%@. Bitte nutzen Sie das Support-Formular auf unserer Website.";
+
+/* 1 item remaining in trial version */
+"%ld item remaining" = "Noch %ld Artikel";
+
+/* 10 items remaining in trial version */
+"%ld items remaining" = "Noch %ld Artikel";
+
+/* 10 Selected */
+"%ld Selected" = "%ld ausgewählt";
+
+/* 1 Photo */
+"%lu Photo" = "%lu Foto";
+
+/* 10 Photos */
+"%lu Photos" = "%lu Fotos";
+
+/* no translation required */
+"1 MP" = "1 MP";
+
+/* no translation required */
+"2 MP" = "2 MP";
+
+/* no translation required */
+"3 MP" = "3 MP";
+
+/* label */
+"4 digit code" = "4‑stelligen Code";
+
+/* message */
+"\n⚠️WARNING: Missing photos\n\nTip: Use Export to generate self-contained backup files that can be shared across different Apple IDs" = "";
+
+/* A4 paper size */
+"A4" = "A4";
+
+/* message */
+"Add a new property or switch properties." = "";
+
+/* title */
+"Add Barcode" = "Strichcode hinzufügen";
+
+/* title */
+"Add Category" = "Kategorie hinzufügen";
+
+/* add item title */
+"Add Item" = "Artikel hinzufügen";
+
+/* add items title */
+"Add Items" = "Artikel hinzufügen";
+
+/* choose location title */
+"Add Items to" = "Artikel hinzufügen zu";
+
+/* title */
+"Add Location" = "Ort hinzufügen";
+
+/* title */
+"Add Photos" = "Fotos hinzufügen";
+
+/* title */
+"Add Property" = "Haus hinzufügen";
+
+/* add item to category title */
+"Add to Category" = "Zur Kategorie hinzufügen";
+
+/* added 21/03/2019 */
+"added %@" = "hinzugefügt zu %@";
+
+/* advanced settings */
+"Advanced" = "Erweitert";
+
+/* advanced settings */
+"Advanced Settings" = "Erweiterte Einstellungen";
+
+/* title */
+"Albums" = "Alben";
+
+/* All locations */
+"All" = "Alle";
+
+/* all categories */
+"All Categories" = "Alle Kategorien";
+
+/* all locations */
+"All Locations" = "All Orte";
+
+/* all photos */
+"All Photos" = "All Fotos";
+
+/* "Single from Camera" description */
+"All photos in one item" = "Alle Fotos in ein Artikel";
+
+/* message */
+"Already purchased full version??" = "Vollversion bereits gekauft?";
+
+/* message */
+"An initial backup will be performed to transfer existing photos to iCloud." = "";
+
+/* message */
+"An unknown error occurred." = "Ein unbekannter Fehler ist aufgetreten.";
+
+/* any location/category */
+"Any" = "Beliebig";
+
+/* table view label */
+"Appearance" = "Erscheinungsbild";
+
+/* category */
+"Appliances" = "Haushaltsgeräte";
+
+/* title */
+"Archive Original Photos" = "";
+
+/* category */
+"Art" = "";
+
+/* currency */
+"Australian Dollar" = "Australischer Dollar";
+
+/* button */
+"Auto Backup" = "Autom. Backup";
+
+/* status message */
+"Backing up…" = "Backup…";
+
+/* backup data */
+"Backup" = "Backup";
+
+/* message */
+"Backup files are located in the Home Contents folder in iCloud Drive." = "Die Datensicherung befindet sich in der Heiminhalte Mappe in iCloud";
+
+/* button */
+"Backup Now" = "Backup jetzt erstellen";
+
+/* location */
+"Basement" = "Keller";
+
+/* location */
+"Bedroom" = "Schlafzimmer";
+
+/* box display mode (iPad) */
+"Boxes" = "Kisten";
+
+/* currency */
+"British Pound Sterling" = "Britisches Pfund";
+
+/* message */
+"By purchasing you will be supporting the development of Home Contents" = "Mit dem Kauf unterstützen Sie die Entwicklung von Heiminhalte";
+
+/* accessibility */
+"Camera" = "";
+
+/* message */
+"Camera not available" = "Kamera nicht verfügbar";
+
+/* message */
+"Camera not available in Split View or Slide Over" = "Die Kamera ist im Split View / Slide Over Modus nicht verfügbar";
+
+/* currency */
+"Canadian Dollar" = "Kanadischer Dollar";
+
+/* button */
+"Cancel" = "Abbrechen";
+
+/* button */
+"Categories" = "Kategorien";
+
+/* label */
+"Category Name" = "Kategoriename";
+
+/* button */
+"Change Code" = "";
+
+/* message */
+"Changes will no longer be shared with other devices on your local WiFi network." = "";
+
+/* message */
+"Changes will no longer be shared with other devices using the same Apple ID." = "";
+
+/* message */
+"Choose the display order for items in the report." = "";
+
+/* message */
+"Choose the display order for items within each location / category." = "Wählen Sie die Anzeigereihenfolge für Artikel innerhalb jedes Standorts / jeder Kategorie.";
+
+/* classic report style */
+"Classic" = "Klassisch";
+
+/* button */
+"Clear" = "Löschen";
+
+/* button */
+"Clear Report Cache" = "Bericht Zwischenspeicher zurücksetzen";
+
+/* button */
+"Clear Sync Log" = "Synchr. Prot. löschen";
+
+/* confirmation */
+"Clear Sync Log?" = "Synchronisationsprotokoll löschen?";
+
+/* clearing photo cache */
+"Clearing…" = "Löschen…";
+
+/* common currencies */
+"Common" = "Üblich";
+
+/* help */
+"Common Questions" = "Häufige Fragen";
+
+/* report currency option */
+"Convert report values to a single currency or use original currency." = "Berichtswerte in eine einzelne Währung konvertieren oder Originalwährung verwenden.";
+
+/* Convert to USD */
+"Convert to %@" = "in %@ umrechnen";
+
+/* Convert to local currency */
+"Convert to Local" = "In Landeswährung umrechnen";
+
+/* Convert to other currency */
+"Convert to Other…" = "In an Währung umrechnen…";
+
+/* button */
+"Copy" = "Kopieren";
+
+/* button */
+"Copy PDF" = "PDF kopieren";
+
+/* button */
+"Copy Photo" = "Foto kopieren";
+
+/* item cost */
+"Cost" = "Preis";
+
+/* button */
+"Create Report" = "Bericht erstellen";
+
+/* acknowledgements */
+"Credits" = "Credits";
+
+/* CSV report style */
+"CSV" = "CSV";
+
+/* title */
+"Currencies" = "Währungen";
+
+/* currency title */
+"Currency" = "Währung";
+
+/* currency rates */
+"Currency Rates" = "Wechselkurse";
+
+/* dark theme */
+"Dark" = "Dunkel";
+
+/* date item was added to inventory */
+"Date Added" = "Hinzugefügt am";
+
+/* no translation required */
+"DEBUG" = "DEBUG";
+
+/* button */
+"Delete" = "Löschen";
+
+/* Delete Kitchen and 1 item within? */
+"Delete %@ and %@ item within?" = "%@ und %@ Artikel löschen?";
+
+/* Delete Kitchen and 10 items within? */
+"Delete %@ and %@ items within?" = "%@ und %@ Artikel löschen?";
+
+/* Delete Art and remove it from 1 item in another property? */
+"Delete %@ and remove it from %@ item in another property?" = "Lösche %@ und entferne %@ Artikel in anderen Immobilien?";
+
+/* Delete Art and remove it from 1 item? */
+"Delete %@ and remove it from %@ item?" = "Lösche %@ und entferne es von %@ Artikel?";
+
+/* Delete Art and remove it from 10 items in multiple properties? */
+"Delete %@ and remove it from %@ items in multiple properties?" = "%@ löschen und von %@ Artikeln in versch. Immobilien entfernen?";
+
+/* Delete Art and remove it from 10 items? */
+"Delete %@ and remove it from %@ items?" = "Lösche %@ und entferne es von %@ Artikeln?";
+
+/* Delete item */
+"Delete %@?" = "%@ löschen?";
+
+/* Delete 10 items? */
+"Delete %ld items?" = "%ld Artikel löschen?";
+
+/* Delete (10) */
+"Delete (%@)" = "Löschen (%@)";
+
+/* confirmation */
+"Delete document?" = "Dokument löschen?";
+
+/* confirmation */
+"Delete item?" = "Artikel löschen?";
+
+/* confirmation */
+"Delete photo?" = "Foto löschen?";
+
+/* deleting */
+"Deleting…" = "Löschen…";
+
+/* description */
+"Description" = "Beschreibung";
+
+/* button */
+"Deselect All" = "Auswahl aufheben";
+
+/* detailed logging */
+"Detailed" = "Detailliert";
+
+/* item details */
+"Details" = "Details";
+
+/* location */
+"Dining Room" = "Esszimmer";
+
+/* button */
+"Disable" = "";
+
+/* title */
+"Disable iCloud Sync" = "";
+
+/* title */
+"Disable WiFi Sync" = "";
+
+/* display options */
+"Display" = "Anzeige";
+
+/* button */
+"Done" = "Fertig";
+
+/* status message */
+"Downloading photos…" = "Fotos laden…";
+
+/* button */
+"Duplicate" = "Duplizieren";
+
+/* Duplicate 1 item */
+"Duplicate %ld item?" = "%ld Artikel duplizieren";
+
+/* Duplicate 10 items */
+"Duplicate %ld items?" = "Dupliziere %ld Artikel?";
+
+/* "Multi from Camera" description */
+"Each photo is a new item" = "Jedes Foto ist ein neues Artikel";
+
+/* button */
+"Edit" = "Bearbeiten";
+
+/* title */
+"Edit Category" = "Kategorie bearbeiten";
+
+/* title */
+"Edit Location" = "Standort bearbeiten";
+
+/* title */
+"Edit Property" = "Immobilie bearbeiten";
+
+/* category */
+"Electronics" = "Elektronik";
+
+/* elegant report style */
+"Elegant" = "Elegant";
+
+/* message */
+"Email not available" = "E-Mail nicht verfügbar";
+
+/* display empty categories */
+"Empty Categories" = "Leere Kategorien";
+
+/* button */
+"Enable" = "";
+
+/* confirmation */
+"Enable Auto Backup?" = "Autom. Backup aktivieren?";
+
+/* title */
+"Enable iCloud Sync" = "";
+
+/* title */
+"Enable WiFi Sync" = "";
+
+/* report end date */
+"End Date" = "Enddatum";
+
+/* message */
+"Enter a 4 digit code" = "4 stelligen Code eingeben";
+
+/* 4 digit passcode/password */
+"Enter Passcode" = "Code eingeben";
+
+/* message */
+"Error generating CSV file" = "Fehler bei Anfertigung CSV Datei";
+
+/* message */
+"Error saving photo archive" = "Fehler beim Speichern des Foto-Archivs";
+
+/* currency */
+"Euro" = "Euro";
+
+/* warranty expired */
+"Expired" = "Abgelaufen";
+
+/* (warranty) expired 21/02/2019 */
+"expired %@" = "abgelaufen am: %@";
+
+/* export data */
+"Export" = "Exportieren";
+
+/* export CSV file */
+"Export CSV" = "CSV exportieren";
+
+/* button */
+"Export Photos" = "Fotos exportieren";
+
+/* status message */
+"Exporting photos…" = "Fotos exportieren…";
+
+/* status message */
+"Exporting…" = "Exportieren…";
+
+/* message */
+"Fatal Error. Database is corrupt or was created by a newer version. %@" = "Fataler Fehler. Datenbank ist beschädigt oder wurde von einer neueren Version erstellt. %@";
+
+/* title */
+"Feedback" = "Kontaktinformation";
+
+/* add from camera */
+"From Camera" = "Von der Kamera";
+
+/* add from saved photos */
+"From Saved Photos" = "Von gespeicherten Fotos";
+
+/* status message */
+"FULL VERSION UNLOCKED" = "VOLLVERSION FREIGESCHALTET";
+
+/* category */
+"Furniture" = "Möbel";
+
+/* location */
+"Garage" = "";
+
+/* status message */
+"Generating PDF…" = "PDF erstellen…";
+
+/* status message */
+"Generating…" = "Wird angefertigt…";
+
+/* help */
+"Help" = "Hilfe";
+
+/* no translation required */
+"help_en" = "help_de";
+
+/* message */
+"Higher quality photos require more storage space and may impact sync performance" = "Fotos mit höherer Qualität erfordern mehr Speicherplatz und können die Synchr. Leistung beeinträchtigen";
+
+/* default property */
+"Home" = "Zuhause";
+
+/* app name */
+"Home Contents" = "Heiminhalte";
+
+/* message */
+"iCloud Drive must be enabled on your device to use the %@ feature" = "iCloud Drive muss auf Ihrem Gerät aktiviert sein, damit die %@ Funktion verwendet werden kann";
+
+/* label */
+"iCloud Sync" = "iCloud Synchronisation";
+
+/* message */
+"If you experience issues with report generation including missing or incorrect photos then clearing the report cache may help." = "Wenn bei der Berichterstellung Probleme auftreten, einschließlich fehlender oder falscher Fotos, kann das Löschen des Berichtszwischenspeicher hilfreich sein.";
+
+/* message */
+"If you are experiencing sync issues you can send us your sync log along with a description of your issue." = "Wenn Synchronisierungsprobleme auftreten, können Sie uns Ihr Synchronisierungsprotokoll zusammen mit einer Beschreibung Ihres Problems senden.";
+
+/* button */
+"Import" = "Importieren";
+
+/* confirmation */
+"Import %@?" = "%@ importieren?";
+
+/* message */
+"Import failed. %@" = "Import fehlgeschlagen. %@";
+
+/* status message */
+"Importing…" = "Importieren…";
+
+/* in Living Room */
+"in %@" = "In %@";
+
+/* in warranty category */
+"In Warranty" = "In der Garantie";
+
+/* message */
+"In-app purchase failed" = "In-App-Kauf fehlgeschlagen";
+
+/* status message */
+"IN-APP PURCHASES DISABLED" = "IN-APP-KAUF DEAKTIVIERT";
+
+/* displayed when user types invalid password */
+"Incorrect passcode. Try again." = "Falscher Code. Versuchen Sie es erneut.";
+
+/* information */
+"Info" = "Info";
+
+/* message */
+"Invalid report name" = "Ungültiger Name";
+
+/* no translation required */
+"iPad" = "iPad";
+
+/* no translation required */
+"iPhone" = "iPhone";
+
+/* no translation required */
+"iPod" = "iPod";
+
+/* item title */
+"Item" = "Artikel";
+
+/* no translation required */
+"Item %lu-%lu" = "Artikel %lu-%lu";
+
+/* title */
+"Item Categories" = "Artikel Kategorien";
+
+/* label */
+"Item Description" = "Artikelbeschreibung";
+
+/* title */
+"Item Location" = "Artikel Standort";
+
+/* items ordered by (date, name etc.) */
+"Item Order" = "";
+
+/* item value */
+"Item Value" = "Artikelwert";
+
+/* "Single Item" description */
+"Item without photos" = "Artikel ohne Fotos";
+
+/* no translation required */
+"Jewellery" = "Schmucksachen";
+
+/* category */
+"Jewelry" = "Schmucksachen";
+
+/* location */
+"Kitchen" = "Küche";
+
+/* last monday, tuesday, etc. (must work for all weekdays) */
+"Last %@" = "Letzter %@";
+
+/* last backup time */
+"Last Backup" = "Letzte Backup";
+
+/* US Letter paper size */
+"Letter" = "US Letter";
+
+/* light theme */
+"Light" = "Hell";
+
+/* list display mode (iPad) */
+"List" = "Liste";
+
+/* list photo files in report */
+"List Photo Files" = "Fotodateien auflisten";
+
+/* location */
+"Living Room" = "Wohnzimmer";
+
+/* status message */
+"LOADING PURCHASE INFO…" = "KAUF INFORMATION LADEN…";
+
+/* status message */
+"Loading…" = "Laden…";
+
+/* table view label */
+"Local Currency" = "Landeswährung";
+
+/* title */
+"Location" = "Ort";
+
+/* display total value for each location / category */
+"Location / Category Values" = "";
+
+/* label */
+"Location Name" = "";
+
+/* button */
+"Locations" = "Standorte";
+
+/* label */
+"Logging" = "Protokollierung";
+
+/* label */
+"Logging Level" = "Protokollierungsstufe";
+
+/* no translation required */
+"Lounge" = "Lounge";
+
+/* main display mode on iPad (boxes or list) */
+"Main Display" = "";
+
+/* make */
+"Make" = "Marke";
+
+/* make and model */
+"Make & Model" = "Marke / Modell";
+
+/* confirmation with name */
+"Make a copy of %@?" = "";
+
+/* confirmation */
+"Make a copy of this item?" = "";
+
+/* report maximum quantity */
+"Max Quantity" = "";
+
+/* report max value */
+"Max Value" = "";
+
+/* medium photo size */
+"Medium" = "Mittel";
+
+/* min value for archiving photos */
+"Min Archive Value" = "";
+
+/* report min value */
+"Min Value" = "";
+
+/* report min quantity */
+"Min Quantity" = "";
+
+/* title - miscellaneous */
+"Misc" = "Sonstiges";
+
+/* label */
+"Mobile Data" = "Mobile Daten";
+
+/* model */
+"Model" = "Modell";
+
+/* months */
+"Months" = "Monate";
+
+/* accessibility */
+"Move" = "";
+
+/* move item to category title */
+"Move to Category" = "";
+
+/* move item to location title */
+"Move to Location" = "";
+
+/* button */
+"Multi from Camera" = "";
+
+/* button */
+"Multi from Photos" = "";
+
+/* accessibility */
+"Multi select" = "";
+
+/* file name */
+"Name" = "Name";
+
+/* Last backup: never */
+"never" = "nie";
+
+/* new item title */
+"New Item" = "Neuer Artikel";
+
+/* currency */
+"New Zealand Dollar" = "Neuseeland Dollar";
+
+/* enter your new passcode/password */
+"New passcode" = "Neuer Code";
+
+/* button */
+"Next" = "Weiter";
+
+/* message */
+"NO BACKUP FILES FOUND.\n\n" = "";
+
+/* message */
+"No in-app purchases to restore" = "";
+
+/* no items */
+"no items" = "keine Artikel";
+
+/* title */
+"No items" = "Keine Artikel";
+
+/* message */
+"No items to export" = "";
+
+/* message */
+"No matching items to report." = "";
+
+/* label */
+"No Photos" = "Keine Fotos";
+
+/* message */
+"No photos found" = "Keine Fotos gefunden";
+
+/* message */
+"NO SAVED REPORTS FOUND.\n\n" = "";
+
+/* item notes */
+"Notes" = "Notizen";
+
+/* off */
+"Off" = "Aus";
+
+/* location */
+"Office" = "Büro";
+
+/* button */
+"OK" = "OK";
+
+/* on */
+"On" = "Ein";
+
+/* open in (app) */
+"Open in…" = "In App öffnen…";
+
+/* title */
+"Optional Information" = "Optionale Informationen";
+
+/* title */
+"Options" = "Optionen";
+
+/* order items by (date, name…) */
+"Order By" = "Sortieren nach";
+
+/* original currency */
+"Original" = "";
+
+/* out of warranty category */
+"Out of Warranty" = "Garantie abgelaufen";
+
+/* button */
+"Overwrite" = "Überschreiben";
+
+/* confirmation */
+"Overwrite existing file?" = "Vorhandene Datei überschreiben?";
+
+/* confirmation */
+"Overwrite existing report?" = "Vorhandenen Bericht überschreiben?";
+
+/* page 1 of 10 */
+"page %d of %d" = "Seite %d von %d";
+
+/* 4 digit passcode/password */
+"Passcode" = "Passwort";
+
+/* user did not correctly verify their new passcode */
+"Passcodes do not match. Try again." = "Passwörter stimmen nicht überein. Erneut versuchen.";
+
+/* paste from clipboard */
+"Paste From Clipboard" = "Aus der Zwischenablage einfügen";
+
+/* photos */
+"Photo" = "Foto";
+
+/* accessibility */
+"Photos" = "";
+
+/* Photo 1 of 3 */
+"Photo %lu of %lu" = "Foto %lu von %lu";
+
+/* photo archive */
+"Photo Archive" = "Fotoarchiv";
+
+/* message */
+"Photo archives are Zip files containing full-size photos for items contained in the report.\n\nWARNING: Photo archives can be large so consider setting a minimum value or restricting them to certain categories only.\n\nPhoto archives are saved to the Home Contents > Reports folder in iCloud Drive and can be accessed using the iOS Files app." = "";
+
+/* photo files */
+"Photo Files" = "Fotodateien";
+
+/* photo quality */
+"Photo Quality" = "Fotoqualität";
+
+/* title */
+"Photos" = "Fotos";
+
+/* message */
+"Please disable iCloud sync before enabling WiFi sync" = "Bitte deaktiviere iCloud sync. bevor WIFI aktiviert wird";
+
+/* message */
+"Please disable iCloud syncing before removing sync data" = "Bitte deaktiviere iCloud sync. bevor Daten aus der sync. entfernt werden";
+
+/* message */
+"Please disable WiFi sync before enabling iCloud sync" = "Bitte deaktiviere WIFI bevor iCloud sync. aktiviert wird";
+
+/* rating appeal */
+"Please Rate Home Contents" = "Bitte bewerten Sie unsere App";
+
+/* message */
+"Please wait for syncing to complete before disabling iCloud sync" = "Bitte warten Sie bis die Synchronisierung abgeschlossen ist bevor Sie die iCloud sync. ausschalten";
+
+/* message */
+"Please wait for syncing to complete before disabling WiFi sync" = "Bitte warten Sie bis die Synchronisierung abgeschlossen ist bevor Sie die WIFI-Synchronisierung ausschalten";
+
+/* message */
+"Please wait for syncing to complete before removing iCloud sync data" = "Bitte warten Sie bis die Synchronisierung abgeschlossen ist bevor Sie die iCloud Daten entfernen.";
+
+/* button */
+"Previous" = "";
+
+/* button */
+"Print" = "Drucken";
+
+/* message */
+"Printing Error" = "Fehler beim Drucken";
+
+/* title */
+"Properties" = "";
+
+/* label */
+"Property Name" = "Hausname";
+
+/* purchase date */
+"Purchase Date" = "Kaufdatum";
+
+/* status message */
+"PURCHASE PENDING…" = "KAUF IN ARBEIT…";
+
+/* purchase price */
+"Purchase Price" = "Einkaufspreis";
+
+/* label */
+"Purchased" = "Käufe";
+
+/* Purchased 21/02/2019 */
+"Purchased %@" = "Gekauft am %@";
+
+/* label */
+"Purchased From" = "Gekauft von";
+
+/* Purchased from Amazon */
+"Purchased from %@" = "von %@ Gekauft";
+
+/* status message */
+"PURCHASING…" = "KAUFVORGANG…";
+
+/* quantity */
+"Quantity" = "Menge";
+
+/* button */
+"Remove" = "Entfernen";
+
+/* Remove 10 items from Kitchen */
+"Remove %ld items from %@?" = "Entferne %ld Artikel von %@?";
+
+/* confirmation */
+"Remove All iCloud Data?" = "Alle iCloud Daten entfernen?";
+
+/* label */
+"Remove All Sync Data from iCloud" = "Synchronisierte Daten aus iCloud entfernen?";
+
+/* accessibility */
+"Remove Category" = "";
+
+/* Remove item from Kitchen */
+"Remove item from %@?" = "Entferne Artikel von %@?";
+
+/* status message */
+"Removing…" = "Entfernen…";
+
+/* accessibility */
+"Rename" = "";
+
+/* replacement value */
+"Replacement Value" = "Wiederbeschaffungswert";
+
+/* title */
+"Report" = "Bericht";
+
+/* title */
+"Report Currency" = "Berichtswährung";
+
+/* title */
+"Report Options" = "Berichtsoptionen";
+
+/* title */
+"Reports" = "Berichte";
+
+/* report paper size */
+"Report Size" = "Berichtsgröße";
+
+/* button */
+"Reset" = "Zurücksetzen";
+
+/* button */
+"Reset iCloud" = "iCloud zurücksetzen";
+
+/* restore data */
+"Restore" = "Wiederherstellen";
+
+/* message */
+"Restore failed. %@" = "Fehler bei Wiederherstellung. %@";
+
+/* button */
+"Restore Purchase" = "Einkäufe wiederherstellen";
+
+/* button */
+"Restoring Purchase…" = "Einkäufe wiederherstellen…";
+
+/* retailer (purchased from) */
+"Retailer" = "Einzelhändler";
+
+/* accessibility */
+"Rotate 90° left" = "";
+
+/* button */
+"Save" = "Sichern";
+
+/* message */
+"Save error. %@" = "Fehler beim Speichern. %@";
+
+/* save report title */
+"Save Report" = "Bericht speichern";
+
+/* status message */
+"Saved" = "Gesichert";
+
+/* title */
+"Saved Reports" = "Gesicherte Berichte";
+
+/* message */
+"Saved reports are located in the Home Contents folder in iCloud Drive." = "";
+
+/* message */
+"Saved reports can be accessed from the Home Contents folder in iCloud Drive" = "";
+
+/* %1$@ is a placeholder for iPhone or iPad */
+"Saved reports can be copied to your computer by connecting your %1$@ to iTunes. In iTunes first select your %1$@. Next select the Apps category at the top. Finally, select Home Contents under File Sharing." = "Gespeicherte Berichte werden auf den Computer übertragen wenn sie ihr %1$@ an iTunes anschließen. Als erstes wählen sie ihr %1$@ in iTunes aus. Als nächstes wählen sie die Kategorie Apps im oberen Bildschirmbereich aus. Danach wählen sie File Sharing aus und markieren Heiminhalte.";
+
+/* message */
+"Saving error" = "Fehler beim Speichern";
+
+/* status message */
+"Saving Photo Archive…" = "Foto Archiv sichern…";
+
+/* status message */
+"Saving…" = "Sichern…";
+
+/* title */
+"Scan Barcode" = "Barcode scannen";
+
+/* search */
+"Search" = "Suchen";
+
+/* search by barcode title */
+"Search Barcode" = "Barcode suche";
+
+/* button */
+"Select All" = "Alle auswählen";
+
+/* email developer */
+"Send Feedback" = "Feedback senden";
+
+/* email sync log */
+"Send Sync Log" = "Synchr. Prot. senden";
+
+/* serial number abbreviation */
+"Serial No." = "Seriennr.";
+
+/* Serial no. 12345 */
+"Serial no. %@" = "Seriennr. %@";
+
+/* serial number */
+"Serial Number" = "Seriennummer";
+
+/* button */
+"Set" = "Stellen";
+
+/* button */
+"Set as Main Photo" = "Als Titelbild festlegen";
+
+/* status message */
+"Setting up…" = "Wird eingerichtet…";
+
+/* button */
+"Settings" = "Einstellungen";
+
+/* button */
+"Share" = "Teilen";
+
+/* message */
+"Share changes with other devices on your local WiFi network." = "";
+
+/* message */
+"Share changes with other devices using the same Apple ID." = "";
+
+/* button */
+"Share PDF" = "PDF teilen";
+
+/* button */
+"Share Photo" = "Foto teilen";
+
+/* message */
+"Sharing error" = "Fehler beim Teilen";
+
+/* message */
+"Show categories that have no items assigned to them in the current property" = "Zeige Kategorien welche im aktuellen Haus keine Artikel enthalten";
+
+/* button */
+"Single from Camera" = "Einzelbild von der Kamera";
+
+/* button */
+"Single from Photos" = "Einzelbild aus Fotoalbum";
+
+/* button */
+"Single Item" = "Einzelner Artikel";
+
+/* small photo size */
+"Small" = "Klein";
+
+/* title */
+"Smart Categories" = "Intelligente Kategorien";
+
+/* standard logging */
+"Standard" = "Standard";
+
+/* report start date */
+"Start Date" = "Startdatum";
+
+/* title */
+"Store" = "Store";
+
+/* status message */
+"STORE TEMPORARILY UNAVAILABLE" = "STORE TEMPORÄR NICHT ERREICHBAR";
+
+/* no translation required */
+"Study" = "Study";
+
+/* report style */
+"Style" = "Stil";
+
+/* title */
+"Subtotal" = "Zwischensumme";
+
+/* Sync */
+"Sync" = "Synchronisation";
+
+/* title */
+"Sync Log" = "Protokoll synchr.";
+
+/* message */
+"Sync log is empty" = "";
+
+/* button */
+"Sync Now" = "Jetzt synchr.";
+
+/* table view label */
+"Sync on Startup" = "Beim Start synchronisieren";
+
+/* title */
+"Sync Settings" = "Synchronisationseinstellungen";
+
+/* status message */
+"Syncing…" = "Synchronisieren…";
+
+/* system theme */
+"System" = "System";
+
+/* button */
+"System Settings" = "Systemeinstellungen";
+
+/* message */
+"This action cannot be undone." = "Diese Aktion kann nicht widerrufen werden.";
+
+/* message */
+"This app does not have permission to use the camera." = "Die App hat keinen Zugriff auf die Kamera.";
+
+/* message */
+"This device does not have a camera." = "Dieses Gerät hat keine Kamera.";
+
+/* This version has no ratings */
+"This version has no ratings. 🙁" = "Schreiben sie die erste Bewertung! 😀";
+
+/* This version has only 1 rating */
+"This version has only %@ rating. 🙁" = "Diese Version hat nur %@ Wertung. 🙁";
+
+/* This version has only 3 ratings */
+"This version has only %@ ratings. 🙁" = "Diese Version hat bisher nur %@ Bewertungen. 🙁";
+
+/* This version has only 7 ratings */
+"This version has only %@ ratings. 😐" = "Diese Version hat bisher nur %@ Bewertungen. 😐";
+
+/* This version has 12 ratings */
+"This version has %@ ratings. 😀" = "Diese Version hat %@ Wertungen. 😀";
+
+/* message */
+"Tip: The value for individual locations / categories can be displayed by enabling the “Location / Category Values” option in the Advanced Settings screen." = "Der Wert für einzelne Standorte / Kategorien kann angezeigt werden, indem die Option „Standort- / Kategoriewerte“ in den erweiterten Einstellungen aktiviert wird.";
+
+/* Photo usage info */
+"To add item photos from the Photos app" = "";
+
+/* Add photo usage info */
+"To save photos to the Photos app" = "";
+
+/* camera usage info */
+"To take photos of items and scan barcodes" = "Die Kamera wird benötigt um Fotos aufzunehmen und Barcodes zu scannen.";
+
+/* message */
+"To take photos please enable \"Camera\" access for Home Contents in the \"Privacy\" section of the \"Settings\" app." = "Um Fotos aufnehmen zu können, gehen Sie in die Datenschutzeinstellungen und erlauben unter Kamera den Zugriff durch die Home Content App.";
+
+/* Face ID usage info */
+"To unlock Home Contents using Face ID" = "";
+
+/* message */
+"To view photos please enable \"Photo\" access for Home Contents in the \"Privacy\" section of the \"Settings\" app." = "Um Fotos verwenden zu können, gehen Sie in die Datenschutzeinstellungen und erlauben unter Foto den Zugriff durch die Home Content App. mit Lesen und Schreiben";
+
+/* title */
+"Total" = "Summe";
+
+/* message */
+"Unable to download image. Try again later when connected to WiFi." = "Herunterladen des Bildes nicht möglich. Versuchen Sie es später noch einmal, wenn Sie mit einem WLAN verbunden sind.";
+
+/* message */
+"Unable to restore purchases" = "Einkäufe konnten nicht wiederhergestellt werden";
+
+/* message */
+"Unable to save document. %@" = "Das Dokument kann nicht gespeichert werden. %@";
+
+/* message */
+"Unable to save photo. %@" = "Foto kann nicht gespeichert werden. %@";
+
+/* unable to send email */
+"Unable to send email" = "Es kann keine E-Mail gesendet werden.";
+
+/* unfiled items category */
+"Unfiled" = "Nicht abgelegt";
+
+/* value per item */
+"Unit Value" = "Wert der Einheit";
+
+/* button */
+"UNLOCK ALL FEATURES" = "ALLE FEATURES FREISCHALTEN";
+
+/* message */
+"Unlock all features for unlimited items and multiple properties." = "Alle Eigenschaften für unbegrenzte Artikel und mehrere Immobilien freischalten";
+
+/* message */
+"Unlock all features to add multiple properties." = "Eigenschaften freischalten um mehrere Immobilien anzulegen";
+
+/* touch id message */
+"Unlock Home Contents" = "Heiminhalte entsperren";
+
+/* message */
+"Unlock Home Contents to add more items" = "Heiminhalte für mehr Artikel freischalten";
+
+/* message */
+"Unlock the full version of Home Contents to access all features:" = "Freischalten der Vollversion um alle Eigenschaften zu erhalten";
+
+/* unnamed item */
+"unnamed" = "Ohne Namen";
+
+/* (valid) until 21/05/2020 */
+"until %@" = "bis %@";
+
+/* unvalued items category */
+"Unvalued" = "Nicht bewertet";
+
+/* display unvalued items category */
+"Unvalued Category" = "nicht bezeichnete Kategorie";
+
+/* button */
+"Update" = "Aktualisieren";
+
+/* status message */
+"Updating data…" = "Daten werden aktualisiert…";
+
+/* status message */
+"Updating iCloud data…" = "iCloud-Daten werden aktualisiert…";
+
+/* status message */
+"Updating…" = "Aktualisieren…";
+
+/* title */
+"Upgrade" = "Vollversion kaufen";
+
+/* currency */
+"US Dollar" = "US Dollar";
+
+/* use original currency in reports */
+"Use Original Currency" = "Original Währung verwenden";
+
+/* warranty valid */
+"Valid" = "Gültig";
+
+/* (warranty) valid until 21/05/2020 */
+"valid until %@" = "gültig bis %@";
+
+/* item value */
+"Value" = "Wert";
+
+/* report show value per item */
+"Value per Unit" = "Wert pro Einheit";
+
+/* verify the new passcode message */
+"Verify new passcode" = "Neuen Pass-Code wiederholen";
+
+/* warranty */
+"Warranty" = "Garantie";
+
+/* display warranty categories */
+"Warranty Categories" = "Garantie Kategorien";
+
+/* warranty expiry date */
+"Warranty Expiry" = "Garantie abgelaufen";
+
+/* warranty information */
+"Warranty Info" = "Garantieinformationen";
+
+/* warranty time period */
+"Warranty Period" = "Garantie Zeitraum";
+
+/* message */
+"WiFi code must be 4 digits" = "Der WiFi Code muß vierstellig sein.";
+
+/* button */
+"WiFi Sync" = "WiFi Synchr.";
+
+/* years */
+"Years" = "Jahre";
+
+/* message */
+"You can change your local currency in the iOS Settings app under General > Language & Region." = "ändern sie die lokale Währung in den iOS-Einstellungen unter Allgemein> Sprache und Region.";
+
+/* message */
+"Your data will not be removed from iCloud but changes will no longer be shared with other devices.\n\n⚠️ To remove your data from iCloud first disable sync on all devices and then use Reset under Sync Settings on one device." = "";
+
+/* text view */
+"⚡️ Unlimited Items\n⚡️ Multiple Properties" = "⚡️ Unbegrenzte Anzahl an Gegenständen\n⚡️ Mehrere Häuser";
+
+/* message */
+"⚠️ Check your data usage before enabling iCloud and purchase more storage if required. See “Storage” under “iCloud” in the main Settings App for details.\n\nYour data will be moved to iCloud." = "";
+
+/* message */
+"⚠️ To sync both devices must be using the same 4-digit WiFi code and the Home Contents app must be opened on both devices at the same time." = "";
+
+/* message */
+"⚠️ WARNING: Before removing sync data from iCloud please ensure you have disabled iCloud syncing on all copies of Home Contents. You should also wait several minutes before re-enabling sync." = "";
+
+/* message */
+"⚠️ WARNING: Detailed logging should only be used for short periods of time and when specifically requested by our support team." = "⚠️ WARNUNG: Detaillierte Protokollierung sollte nur für kurze Zeit und auf ausdrücklichen Wunsch unseres Supportteams verwendet werden.";
+
+/* message */
+"⚠️ WARNING: New categories will not appear in the list because “Show Empty Categories” in the Advanced settings screen is off." = "";

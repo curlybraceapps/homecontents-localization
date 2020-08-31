@@ -1,0 +1,1286 @@
+/* 1 year warranty - expired 21/02/2019 */
+"%@ - expired %@" = "%@ - expired %@";
+
+/* 1 year warranty - (valid) until 21/04/2020 */
+"%@ - until %@" = "%@ - until %@";
+
+/* Backup/Export failed */
+"%@ failed. %@" = "%@ failed. %@";
+
+/* 1 item */
+"%@ item" = "%@ item";
+
+/* 10 items */
+"%@ items" = "%@ items";
+
+/* 1 month */
+"%@ month" = "%@ month";
+
+/* 10 months */
+"%@ months" = "%@ months";
+
+/* 1 year warranty or 10 year warranty */
+"%@ warranty" = "%@ warranty";
+
+/* 1 year */
+"%@ year" = "%@ year";
+
+/* 10 years */
+"%@ years" = "%@ years";
+
+/* info message */
+"%@. Please use our web support page." = "%@. Please use our web support page.";
+
+/* 1 item remaining in trial version */
+"%ld item remaining" = "%ld item remaining";
+
+/* 10 items remaining in trial version */
+"%ld items remaining" = "%ld items remaining";
+
+/* 10 Selected */
+"%ld Selected" = "%ld Selected";
+
+/* 1 Photo */
+"%lu Photo" = "%lu Photo";
+
+/* 10 Photos */
+"%lu Photos" = "%lu Photos";
+
+/* no translation required */
+"1 MP" = "1 MP";
+
+/* no translation required */
+"2 MP" = "2 MP";
+
+/* no translation required */
+"3 MP" = "3 MP";
+
+/* label */
+"4 digit code" = "4 digit code";
+
+/* message */
+"\n⚠️WARNING: Missing photos\n\nTip: Use Export to generate self-contained backup files that can be shared across different Apple IDs" = "\n⚠️WARNING: Missing photos\n\nTip: Use Export to generate self-contained backup files that can be shared across different Apple IDs";
+
+/* A4 paper size */
+"A4" = "A4";
+
+/* message */
+"Add a new property or switch properties." = "Add a new property or switch properties.";
+
+/* title */
+"Add Barcode" = "Add Barcode";
+
+/* title */
+"Add Category" = "Add Category";
+
+/* add item title */
+"Add Item" = "Add Item";
+
+/* add items title */
+"Add Items" = "Add Items";
+
+/* choose location title */
+"Add Items to" = "Add Items to";
+
+/* title */
+"Add Location" = "Add Location";
+
+/* title */
+"Add Photos" = "Add Photos";
+
+/* title */
+"Add Property" = "Add Property";
+
+/* add item to category title */
+"Add to Category" = "Add to Category";
+
+/* added 21/03/2019 */
+"added %@" = "added %@";
+
+/* advanced settings */
+"Advanced" = "Advanced";
+
+/* advanced settings */
+"Advanced Settings" = "Advanced Settings";
+
+/* title */
+"Albums" = "Albums";
+
+/* All locations */
+"All" = "All";
+
+/* all categories */
+"All Categories" = "All Categories";
+
+/* all locations */
+"All Locations" = "All Locations";
+
+/* all photos */
+"All Photos" = "All Photos";
+
+/* "Single from Camera" description */
+"All photos in one item" = "All photos in one item";
+
+/* message */
+"Already purchased full version?" = "Already purchased full version?";
+
+/* message */
+"An initial backup will be performed to transfer existing photos to iCloud." = "An initial backup will be performed to transfer existing photos to iCloud.";
+
+/* message */
+"An unknown error occurred." = "An unknown error occurred.";
+
+/* any location/category */
+"Any" = "Any";
+
+/* table view label */
+"Appearance" = "Appearance";
+
+/* category */
+"Appliances" = "Appliances";
+
+/* title */
+"Archive Original Photos" = "Archive Original Photos";
+
+/* category */
+"Art" = "Art";
+
+/* currency */
+"Australian Dollar" = "Australian Dollar";
+
+/* button */
+"Auto Backup" = "Auto Backup";
+
+/* status message */
+"Backing up…" = "Backing up…";
+
+/* backup data */
+"Backup" = "Backup";
+
+/* message */
+"Backup files are located in the Home Contents folder in iCloud Drive." = "Backup files are located in the Home Contents folder in iCloud Drive.";
+
+/* button */
+"Backup Now" = "Backup Now";
+
+/* location */
+"Basement" = "Basement";
+
+/* location */
+"Bedroom" = "Bedroom";
+
+/* box display mode (iPad) */
+"Boxes" = "Boxes";
+
+/* currency */
+"British Pound Sterling" = "British Pound Sterling";
+
+/* message */
+"By purchasing you will be supporting the development of Home Contents" = "By purchasing you will be supporting the development of Home Contents";
+
+/* accessibility */
+"Camera" = "Camera";
+
+/* message */
+"Camera not available" = "Camera not available";
+
+/* message */
+"Camera not available in Split View or Slide Over" = "Camera not available in Split View or Slide Over";
+
+/* currency */
+"Canadian Dollar" = "Canadian Dollar";
+
+/* button */
+"Cancel" = "Cancel";
+
+/* button */
+"Categories" = "Categories";
+
+/* label */
+"Category Name" = "Category Name";
+
+/* button */
+"Change Code" = "Change Code";
+
+/* message */
+"Changes will no longer be shared with other devices on your local WiFi network." = "Changes will no longer be shared with other devices on your local WiFi network.";
+
+/* message */
+"Changes will no longer be shared with other devices using the same Apple ID." = "Changes will no longer be shared with other devices using the same Apple ID.";
+
+/* message */
+"Choose the display order for items in the report." = "Choose the display order for items in the report.";
+
+/* message */
+"Choose the display order for items within each location / category." = "Choose the display order for items within each location / category.";
+
+/* classic report style */
+"Classic" = "Classic";
+
+/* button */
+"Clear" = "Clear";
+
+/* button */
+"Clear Report Cache" = "Clear Report Cache";
+
+/* button */
+"Clear Sync Log" = "Clear Sync Log";
+
+/* confirmation */
+"Clear Sync Log?" = "Clear Sync Log?";
+
+/* clearing photo cache */
+"Clearing…" = "Clearing…";
+
+/* common currencies */
+"Common" = "Common";
+
+/* help */
+"Common Questions" = "Common Questions";
+
+/* report currency option */
+"Convert report values to a single currency or use original currency." = "Convert report values to a single currency or use original currency.";
+
+/* Convert to USD */
+"Convert to %@" = "Convert to %@";
+
+/* Convert to local currency */
+"Convert to Local" = "Convert to Local";
+
+/* Convert to other currency */
+"Convert to Other…" = "Convert to Other…";
+
+/* button */
+"Copy" = "Copy";
+
+/* button */
+"Copy PDF" = "Copy PDF";
+
+/* button */
+"Copy Photo" = "Copy Photo";
+
+/* item cost */
+"Cost" = "Cost";
+
+/* button */
+"Create Report" = "Create Report";
+
+/* acknowledgements */
+"Credits" = "Credits";
+
+/* CSV report style */
+"CSV" = "CSV";
+
+/* title */
+"Currencies" = "Currencies";
+
+/* currency title */
+"Currency" = "Currency";
+
+/* currency rates */
+"Currency Rates" = "Currency Rates";
+
+/* dark theme */
+"Dark" = "Dark";
+
+/* date item was added to inventory */
+"Date Added" = "Date Added";
+
+/* no translation required */
+"DEBUG" = "DEBUG";
+
+/* button */
+"Delete" = "Delete";
+
+/* Delete Kitchen and 1 item within? */
+"Delete %@ and %@ item within?" = "Delete %@ and %@ item within?";
+
+/* Delete Kitchen and 10 items within? */
+"Delete %@ and %@ items within?" = "Delete %@ and %@ items within?";
+
+/* Delete Art and remove it from 1 item in another property? */
+"Delete %@ and remove it from %@ item in another property?" = "Delete %@ and remove it from %@ item in another property?";
+
+/* Delete Art and remove it from 1 item? */
+"Delete %@ and remove it from %@ item?" = "Delete %@ and remove it from %@ item?";
+
+/* Delete Art and remove it from 10 items in multiple properties? */
+"Delete %@ and remove it from %@ items in multiple properties?" = "Delete %@ and remove it from %@ items in multiple properties?";
+
+/* Delete Art and remove it from 10 items? */
+"Delete %@ and remove it from %@ items?" = "Delete %@ and remove it from %@ items?";
+
+/* Delete item */
+"Delete %@?" = "Delete %@?";
+
+/* Delete 10 items? */
+"Delete %ld items?" = "Delete %ld items?";
+
+/* Delete (10) */
+"Delete (%@)" = "Delete (%@)";
+
+/* confirmation */
+"Delete document?" = "Delete document?";
+
+/* confirmation */
+"Delete item?" = "Delete item?";
+
+/* confirmation */
+"Delete photo?" = "Delete photo?";
+
+/* deleting */
+"Deleting…" = "Deleting…";
+
+/* description */
+"Description" = "Description";
+
+/* button */
+"Deselect All" = "Deselect All";
+
+/* detailed logging */
+"Detailed" = "Detailed";
+
+/* item details */
+"Details" = "Details";
+
+/* location */
+"Dining Room" = "Dining Room";
+
+/* button */
+"Disable" = "Disable";
+
+/* title */
+"Disable iCloud Sync" = "Disable iCloud Sync";
+
+/* title */
+"Disable WiFi Sync" = "Disable WiFi Sync";
+
+/* display options */
+"Display" = "Display";
+
+/* button */
+"Done" = "Done";
+
+/* status message */
+"Downloading photos…" = "Downloading photos…";
+
+/* button */
+"Duplicate" = "Duplicate";
+
+/* Duplicate 1 item */
+"Duplicate %ld item?" = "Duplicate %ld item?";
+
+/* Duplicate 10 items */
+"Duplicate %ld items?" = "Duplicate %ld items?";
+
+/* "Multi from Camera" description */
+"Each photo is a new item" = "Each photo is a new item";
+
+/* button */
+"Edit" = "Edit";
+
+/* title */
+"Edit Category" = "Edit Category";
+
+/* title */
+"Edit Location" = "Edit Location";
+
+/* title */
+"Edit Property" = "Edit Property";
+
+/* category */
+"Electronics" = "Electronics";
+
+/* elegant report style */
+"Elegant" = "Elegant";
+
+/* message */
+"Email not available" = "Email not available";
+
+/* display empty categories */
+"Empty Categories" = "Empty Categories";
+
+/* button */
+"Enable" = "Enable";
+
+/* confirmation */
+"Enable Auto Backup?" = "Enable Auto Backup?";
+
+/* title */
+"Enable iCloud Sync" = "Enable iCloud Sync";
+
+/* title */
+"Enable WiFi Sync" = "Enable WiFi Sync";
+
+/* report end date */
+"End Date" = "End Date";
+
+/* message */
+"Enter a 4 digit code" = "Enter a 4 digit code";
+
+/* 4 digit passcode/password */
+"Enter Passcode" = "Enter Passcode";
+
+/* message */
+"Error generating CSV file" = "Error generating CSV file";
+
+/* message */
+"Error saving photo archive" = "Error saving photo archive";
+
+/* currency */
+"Euro" = "Euro";
+
+/* warranty expired */
+"Expired" = "Expired";
+
+/* (warranty) expired 21/02/2019 */
+"expired %@" = "expired %@";
+
+/* export data */
+"Export" = "Export";
+
+/* export CSV file */
+"Export CSV" = "Export CSV";
+
+/* button */
+"Export Photos" = "Export Photos";
+
+/* status message */
+"Exporting photos…" = "Exporting photos…";
+
+/* status message */
+"Exporting…" = "Exporting…";
+
+/* message */
+"Fatal Error. Database is corrupt or was created by a newer version. %@" = "Fatal Error. Database is corrupt or was created by a newer version. %@";
+
+/* title */
+"Feedback" = "Feedback";
+
+/* add from camera */
+"From Camera" = "From Camera";
+
+/* add from saved photos */
+"From Saved Photos" = "From Saved Photos";
+
+/* status message */
+"FULL VERSION UNLOCKED" = "FULL VERSION UNLOCKED";
+
+/* category */
+"Furniture" = "Furniture";
+
+/* location */
+"Garage" = "Garage";
+
+/* status message */
+"Generating PDF…" = "Generating PDF…";
+
+/* status message */
+"Generating…" = "Generating…";
+
+/* help */
+"Help" = "Help";
+
+/* no translation required */
+"help_en" = "help_en";
+
+/* message */
+"Higher quality photos require more storage space and may impact sync performance" = "Higher quality photos require more storage space and may impact sync performance";
+
+/* default property */
+"Home" = "Home";
+
+/* app name */
+"Home Contents" = "Home Contents";
+
+/* message */
+"iCloud Drive must be enabled on your device to use the %@ feature" = "iCloud Drive must be enabled on your device to use the %@ feature";
+
+/* label */
+"iCloud Sync" = "iCloud Sync";
+
+/* message */
+"If you experience issues with report generation including missing or incorrect photos then clearing the report cache may help." = "If you experience issues with report generation including missing or incorrect photos then clearing the report cache may help.";
+
+/* message */
+"If you are experiencing sync issues you can send us your sync log along with a description of your issue." = "If you are experiencing sync issues you can send us your sync log along with a description of your issue.";
+
+/* button */
+"Import" = "Import";
+
+/* confirmation */
+"Import %@?" = "Import %@?";
+
+/* message */
+"Import failed. %@" = "Import failed. %@";
+
+/* status message */
+"Importing…" = "Importing…";
+
+/* in Living Room */
+"in %@" = "in %@";
+
+/* in warranty category */
+"In Warranty" = "In Warranty";
+
+/* message */
+"In-app purchase failed" = "In-app purchase failed";
+
+/* status message */
+"IN-APP PURCHASES DISABLED" = "IN-APP PURCHASES DISABLED";
+
+/* displayed when user types invalid password */
+"Incorrect passcode. Try again." = "Incorrect passcode. Try again.";
+
+/* information */
+"Info" = "Info";
+
+/* message */
+"Invalid report name" = "Invalid report name";
+
+/* no translation required */
+"iPad" = "iPad";
+
+/* no translation required */
+"iPhone" = "iPhone";
+
+/* no translation required */
+"iPod" = "iPod";
+
+/* item title */
+"Item" = "Item";
+
+/* no translation required */
+"Item %lu-%lu" = "Item %lu-%lu";
+
+/* title */
+"Item Categories" = "Item Categories";
+
+/* label */
+"Item Description" = "Item Description";
+
+/* title */
+"Item Location" = "Item Location";
+
+/* items ordered by (date, name etc.) */
+"Item Order" = "Item Order";
+
+/* item value */
+"Item Value" = "Item Value";
+
+/* "Single Item" description */
+"Item without photos" = "Item without photos";
+
+/* no translation required */
+"Jewellery" = "Jewellery";
+
+/* category */
+"Jewelry" = "Jewelry";
+
+/* location */
+"Kitchen" = "Kitchen";
+
+/* last monday, tuesday, etc. (must work for all weekdays) */
+"Last %@" = "Last %@";
+
+/* last backup time */
+"Last Backup" = "Last Backup";
+
+/* US Letter paper size */
+"Letter" = "Letter";
+
+/* light theme */
+"Light" = "Light";
+
+/* list display mode (iPad) */
+"List" = "List";
+
+/* list photo files in report */
+"List Photo Files" = "List Photo Files";
+
+/* location */
+"Living Room" = "Living Room";
+
+/* status message */
+"LOADING PURCHASE INFO…" = "LOADING PURCHASE INFO…";
+
+/* status message */
+"Loading…" = "Loading…";
+
+/* table view label */
+"Local Currency" = "Local Currency";
+
+/* title */
+"Location" = "Location";
+
+/* display total value for each location / category */
+"Location / Category Values" = "Location / Category Values";
+
+/* label */
+"Location Name" = "Location Name";
+
+/* button */
+"Locations" = "Locations";
+
+/* label */
+"Logging" = "Logging";
+
+/* label */
+"Logging Level" = "Logging Level";
+
+/* no translation required */
+"Lounge" = "Lounge";
+
+/* main display mode on iPad (boxes or list) */
+"Main Display" = "Main Display";
+
+/* make */
+"Make" = "Make";
+
+/* make and model */
+"Make & Model" = "Make & Model";
+
+/* confirmation with name */
+"Make a copy of %@?" = "Make a copy of %@?";
+
+/* confirmation */
+"Make a copy of this item?" = "Make a copy of this item?";
+
+/* report maximum quantity */
+"Max Quantity" = "Max Quantity";
+
+/* report max value */
+"Max Value" = "Max Value";
+
+/* medium photo size */
+"Medium" = "Medium";
+
+/* min value for archiving photos */
+"Min Archive Value" = "Min Archive Value";
+
+/* report min value */
+"Min Value" = "Min Value";
+
+/* report min quantity */
+"Min Quantity" = "Min Quantity";
+
+/* title - miscellaneous */
+"Misc" = "Misc";
+
+/* label */
+"Mobile Data" = "Mobile Data";
+
+/* model */
+"Model" = "Model";
+
+/* months */
+"Months" = "Months";
+
+/* accessibility */
+"Move" = "Move";
+
+/* move item to category title */
+"Move to Category" = "Move to Category";
+
+/* move item to location title */
+"Move to Location" = "Move to Location";
+
+/* button */
+"Multi from Camera" = "Multi from Camera";
+
+/* button */
+"Multi from Photos" = "Multi from Photos";
+
+/* accessibility */
+"Multi select" = "Multi select";
+
+/* file name */
+"Name" = "Name";
+
+/* Last backup: never */
+"never" = "never";
+
+/* new item title */
+"New Item" = "New Item";
+
+/* currency */
+"New Zealand Dollar" = "New Zealand Dollar";
+
+/* enter your new passcode/password */
+"New passcode" = "New passcode";
+
+/* button */
+"Next" = "Next";
+
+/* message */
+"NO BACKUP FILES FOUND.\n\n" = "NO BACKUP FILES FOUND.\n\n";
+
+/* message */
+"No in-app purchases to restore" = "No in-app purchases to restore";
+
+/* no items */
+"no items" = "no items";
+
+/* title */
+"No items" = "No items";
+
+/* message */
+"No items to export" = "No items to export";
+
+/* message */
+"No matching items to report." = "No matching items to report.";
+
+/* label */
+"No Photos" = "No Photos";
+
+/* message */
+"No photos found" = "No photos found";
+
+/* message */
+"NO SAVED REPORTS FOUND.\n\n" = "NO SAVED REPORTS FOUND.\n\n";
+
+/* item notes */
+"Notes" = "Notes";
+
+/* off */
+"Off" = "Off";
+
+/* location */
+"Office" = "Office";
+
+/* button */
+"OK" = "OK";
+
+/* on */
+"On" = "On";
+
+/* open in (app) */
+"Open in…" = "Open in…";
+
+/* title */
+"Optional Information" = "Optional Information";
+
+/* title */
+"Options" = "Options";
+
+/* order items by (date, name…) */
+"Order By" = "Order By";
+
+/* original currency */
+"Original" = "Original";
+
+/* out of warranty category */
+"Out of Warranty" = "Out of Warranty";
+
+/* button */
+"Overwrite" = "Overwrite";
+
+/* confirmation */
+"Overwrite existing file?" = "Overwrite existing file?";
+
+/* confirmation */
+"Overwrite existing report?" = "Overwrite existing report?";
+
+/* page 1 of 10 */
+"page %d of %d" = "page %d of %d";
+
+/* 4 digit passcode/password */
+"Passcode" = "Passcode";
+
+/* user did not correctly verify their new passcode */
+"Passcodes do not match. Try again." = "Passcodes do not match. Try again.";
+
+/* paste from clipboard */
+"Paste From Clipboard" = "Paste From Clipboard";
+
+/* photos */
+"Photo" = "Photo";
+
+/* accessibility */
+"Photos" = "Photos";
+
+/* Photo 1 of 3 */
+"Photo %lu of %lu" = "Photo %lu of %lu";
+
+/* photo archive */
+"Photo Archive" = "Photo Archive";
+
+/* message */
+"Photo archives are Zip files containing full-size photos for items contained in the report.\n\nWARNING: Photo archives can be large so consider setting a minimum value or restricting them to certain categories only.\n\nPhoto archives are saved to the Home Contents > Reports folder in iCloud Drive and can be accessed using the iOS Files app." = "Photo archives are Zip files containing full-size photos for items contained in the report.\n\nWARNING: Photo archives can be large so consider setting a minimum value or restricting them to certain categories only.\n\nPhoto archives are saved to the Home Contents > Reports folder in iCloud Drive and can be accessed using the iOS Files app.";
+
+/* photo files */
+"Photo Files" = "Photo Files";
+
+/* photo quality */
+"Photo Quality" = "Photo Quality";
+
+/* title */
+"Photos" = "Photos";
+
+/* message */
+"Please disable iCloud sync before enabling WiFi sync" = "Please disable iCloud sync before enabling WiFi sync";
+
+/* message */
+"Please disable iCloud syncing before removing sync data" = "Please disable iCloud syncing before removing sync data";
+
+/* message */
+"Please disable WiFi sync before enabling iCloud sync" = "Please disable WiFi sync before enabling iCloud sync";
+
+/* rating appeal */
+"Please Rate Home Contents" = "Please Rate Home Contents";
+
+/* message */
+"Please wait for syncing to complete before disabling iCloud sync" = "Please wait for syncing to complete before disabling iCloud sync";
+
+/* message */
+"Please wait for syncing to complete before disabling WiFi sync" = "Please wait for syncing to complete before disabling WiFi sync";
+
+/* message */
+"Please wait for syncing to complete before removing iCloud sync data" = "Please wait for syncing to complete before removing iCloud sync data";
+
+/* button */
+"Previous" = "Previous";
+
+/* button */
+"Print" = "Print";
+
+/* message */
+"Printing Error" = "Printing Error";
+
+/* title */
+"Properties" = "Properties";
+
+/* label */
+"Property Name" = "Property Name";
+
+/* purchase date */
+"Purchase Date" = "Purchase Date";
+
+/* status message */
+"PURCHASE PENDING…" = "PURCHASE PENDING…";
+
+/* purchase price */
+"Purchase Price" = "Purchase Price";
+
+/* label */
+"Purchased" = "Purchased";
+
+/* Purchased 21/02/2019 */
+"Purchased %@" = "Purchased %@";
+
+/* label */
+"Purchased From" = "Purchased From";
+
+/* Purchased from Amazon */
+"Purchased from %@" = "Purchased from %@";
+
+/* status message */
+"PURCHASING…" = "PURCHASING…";
+
+/* quantity */
+"Quantity" = "Quantity";
+
+/* button */
+"Remove" = "Remove";
+
+/* Remove 10 items from Kitchen */
+"Remove %ld items from %@?" = "Remove %ld items from %@?";
+
+/* confirmation */
+"Remove All iCloud Data?" = "Remove All iCloud Data?";
+
+/* label */
+"Remove All Sync Data from iCloud" = "Remove All Sync Data from iCloud";
+
+/* accessibility */
+"Remove Category" = "Remove Category";
+
+/* Remove item from Kitchen */
+"Remove item from %@?" = "Remove item from %@?";
+
+/* status message */
+"Removing…" = "Removing…";
+
+/* accessibility */
+"Rename" = "Rename";
+
+/* replacement value */
+"Replacement Value" = "Replacement Value";
+
+/* title */
+"Report" = "Report";
+
+/* title */
+"Report Currency" = "Report Currency";
+
+/* title */
+"Report Options" = "Report Options";
+
+/* title */
+"Reports" = "Reports";
+
+/* report paper size */
+"Report Size" = "Report Size";
+
+/* button */
+"Reset" = "Reset";
+
+/* button */
+"Reset iCloud" = "Reset iCloud";
+
+/* restore data */
+"Restore" = "Restore";
+
+/* message */
+"Restore failed. %@" = "Restore failed. %@";
+
+/* button */
+"Restore Purchase" = "Restore Purchase";
+
+/* button */
+"Restoring Purchase…" = "Restoring Purchase…";
+
+/* retailer (purchased from) */
+"Retailer" = "Retailer";
+
+/* accessibility */
+"Rotate 90° left" = "Rotate 90° left";
+
+/* button */
+"Save" = "Save";
+
+/* message */
+"Save error. %@" = "Save error. %@";
+
+/* save report title */
+"Save Report" = "Save Report";
+
+/* status message */
+"Saved" = "Saved";
+
+/* title */
+"Saved Reports" = "Saved Reports";
+
+/* message */
+"Saved reports are located in the Home Contents folder in iCloud Drive." = "Saved reports are located in the Home Contents folder in iCloud Drive.";
+
+/* message */
+"Saved reports can be accessed from the Home Contents folder in iCloud Drive" = "Saved reports can be accessed from the Home Contents folder in iCloud Drive";
+
+/* %1$@ is a placeholder for iPhone or iPad */
+"Saved reports can be copied to your computer by connecting your %1$@ to iTunes. In iTunes first select your %1$@. Next select the Apps category at the top. Finally, select Home Contents under File Sharing." = "Saved reports can be copied to your computer by connecting your %1$@ to iTunes. In iTunes first select your %1$@. Next select the Apps category at the top. Finally, select Home Contents under File Sharing.";
+
+/* message */
+"Saving error" = "Saving error";
+
+/* status message */
+"Saving Photo Archive…" = "Saving Photo Archive…";
+
+/* status message */
+"Saving…" = "Saving…";
+
+/* title */
+"Scan Barcode" = "Scan Barcode";
+
+/* search */
+"Search" = "Search";
+
+/* search by barcode title */
+"Search Barcode" = "Search Barcode";
+
+/* button */
+"Select All" = "Select All";
+
+/* email developer */
+"Send Feedback" = "Send Feedback";
+
+/* email sync log */
+"Send Sync Log" = "Send Sync Log";
+
+/* serial number abbreviation */
+"Serial No." = "Serial No.";
+
+/* Serial no. 12345 */
+"Serial no. %@" = "Serial no. %@";
+
+/* serial number */
+"Serial Number" = "Serial Number";
+
+/* button */
+"Set" = "Set";
+
+/* button */
+"Set as Main Photo" = "Set as Main Photo";
+
+/* status message */
+"Setting up…" = "Setting up…";
+
+/* button */
+"Settings" = "Settings";
+
+/* button */
+"Share" = "Share";
+
+/* message */
+"Share changes with other devices on your local WiFi network." = "Share changes with other devices on your local WiFi network.";
+
+/* message */
+"Share changes with other devices using the same Apple ID." = "Share changes with other devices using the same Apple ID.";
+
+/* button */
+"Share PDF" = "Share PDF";
+
+/* button */
+"Share Photo" = "Share Photo";
+
+/* message */
+"Sharing error" = "Sharing error";
+
+/* message */
+"Show categories that have no items assigned to them in the current property" = "Show categories that have no items assigned to them in the current property";
+
+/* button */
+"Single from Camera" = "Single from Camera";
+
+/* button */
+"Single from Photos" = "Single from Photos";
+
+/* button */
+"Single Item" = "Single Item";
+
+/* small photo size */
+"Small" = "Small";
+
+/* title */
+"Smart Categories" = "Smart Categories";
+
+/* standard logging */
+"Standard" = "Standard";
+
+/* report start date */
+"Start Date" = "Start Date";
+
+/* title */
+"Store" = "Store";
+
+/* status message */
+"STORE TEMPORARILY UNAVAILABLE" = "STORE TEMPORARILY UNAVAILABLE";
+
+/* no translation required */
+"Study" = "Study";
+
+/* report style */
+"Style" = "Style";
+
+/* title */
+"Subtotal" = "Subtotal";
+
+/* Sync */
+"Sync" = "Sync";
+
+/* title */
+"Sync Log" = "Sync Log";
+
+/* message */
+"Sync log is empty" = "Sync log is empty";
+
+/* button */
+"Sync Now" = "Sync Now";
+
+/* table view label */
+"Sync on Startup" = "Sync on Startup";
+
+/* title */
+"Sync Settings" = "Sync Settings";
+
+/* status message */
+"Syncing…" = "Syncing…";
+
+/* system theme */
+"System" = "System";
+
+/* button */
+"System Settings" = "System Settings";
+
+/* message */
+"This action cannot be undone." = "This action cannot be undone.";
+
+/* message */
+"This app does not have permission to use the camera." = "This app does not have permission to use the camera.";
+
+/* message */
+"This device does not have a camera." = "This device does not have a camera.";
+
+/* This version has no ratings */
+"This version has no ratings. 🙁" = "Be the first person to rate this version! 😀";
+
+/* This version has only 1 rating */
+"This version has only %@ rating. 🙁" = "This version has only %@ rating. 🙁";
+
+/* This version has only 3 ratings */
+"This version has only %@ ratings. 🙁" = "This version has only %@ ratings. 🙁";
+
+/* This version has only 7 ratings */
+"This version has only %@ ratings. 😐" = "This version has only %@ ratings. 😐";
+
+/* This version has 12 ratings */
+"This version has %@ ratings. 😀" = "This version has %@ ratings. 😀";
+
+/* message */
+"Tip: The value for individual locations / categories can be displayed by enabling the “Location / Category Values” option in the Advanced Settings screen." = "Tip: The value for individual locations / categories can be displayed by enabling the “Location / Category Values” option in the Advanced Settings screen.";
+
+/* Photo usage info */
+"To add item photos from the Photos app" = "To add item photos from the Photos app";
+
+/* Add photo usage info */
+"To save photos to the Photos app" = "To save photos to the Photos app";
+
+/* camera usage info */
+"To take photos of items and scan barcodes" = "To take photos of items and scan barcodes";
+
+/* message */
+"To take photos please enable \"Camera\" access for Home Contents in the \"Privacy\" section of the \"Settings\" app." = "To take photos please enable \"Camera\" access for Home Contents in the \"Privacy\" section of the \"Settings\" app.";
+
+/* Face ID usage info */
+"To unlock Home Contents using Face ID" = "To unlock Home Contents using Face ID";
+
+/* message */
+"To view photos please enable \"Photo\" access for Home Contents in the \"Privacy\" section of the \"Settings\" app." = "To view photos please enable \"Photo\" access for Home Contents in the \"Privacy\" section of the \"Settings\" app.";
+
+/* title */
+"Total" = "Total";
+
+/* message */
+"Unable to download image. Try again later when connected to WiFi." = "Unable to download image. Try again later when connected to WiFi.";
+
+/* message */
+"Unable to restore purchases" = "Unable to restore purchases";
+
+/* message */
+"Unable to save document. %@" = "Unable to save document. %@";
+
+/* message */
+"Unable to save photo. %@" = "Unable to save photo. %@";
+
+/* unable to send email */
+"Unable to send email" = "Unable to send email";
+
+/* unfiled items category */
+"Unfiled" = "Unfiled";
+
+/* value per item */
+"Unit Value" = "Unit Value";
+
+/* button */
+"UNLOCK ALL FEATURES" = "UNLOCK ALL FEATURES";
+
+/* message */
+"Unlock all features for unlimited items and multiple properties." = "Unlock all features for unlimited items and multiple properties.";
+
+/* message */
+"Unlock all features to add multiple properties." = "Unlock all features to add multiple properties.";
+
+/* touch id message */
+"Unlock Home Contents" = "Unlock Home Contents";
+
+/* message */
+"Unlock Home Contents to add more items" = "Unlock Home Contents to add more items";
+
+/* message */
+"Unlock the full version of Home Contents to access all features:" = "Unlock the full version of Home Contents to access all features:";
+
+/* unnamed item */
+"unnamed" = "unnamed";
+
+/* (valid) until 21/05/2020 */
+"until %@" = "until %@";
+
+/* unvalued items category */
+"Unvalued" = "Unvalued";
+
+/* display unvalued items category */
+"Unvalued Category" = "Unvalued Category";
+
+/* button */
+"Update" = "Update";
+
+/* status message */
+"Updating data…" = "Updating data…";
+
+/* status message */
+"Updating iCloud data…" = "Updating iCloud data…";
+
+/* status message */
+"Updating…" = "Updating…";
+
+/* title */
+"Upgrade" = "Upgrade";
+
+/* currency */
+"US Dollar" = "US Dollar";
+
+/* use original currency in reports */
+"Use Original Currency" = "Use Original Currency";
+
+/* warranty valid */
+"Valid" = "Valid";
+
+/* (warranty) valid until 21/05/2020 */
+"valid until %@" = "valid until %@";
+
+/* item value */
+"Value" = "Value";
+
+/* report show value per item */
+"Value per Unit" = "Value per Unit";
+
+/* verify the new passcode message */
+"Verify new passcode" = "Verify new passcode";
+
+/* warranty */
+"Warranty" = "Warranty";
+
+/* display warranty categories */
+"Warranty Categories" = "Warranty Categories";
+
+/* warranty expiry date */
+"Warranty Expiry" = "Warranty Expiry";
+
+/* warranty information */
+"Warranty Info" = "Warranty Info";
+
+/* warranty time period */
+"Warranty Period" = "Warranty Period";
+
+/* message */
+"WiFi code must be 4 digits" = "WiFi code must be 4 digits";
+
+/* button */
+"WiFi Sync" = "WiFi Sync";
+
+/* years */
+"Years" = "Years";
+
+/* message */
+"You can change your local currency in the iOS Settings app under General > Language & Region." = "You can change your local currency in the iOS Settings app under General > Language & Region.";
+
+/* message */
+"Your data will not be removed from iCloud but changes will no longer be shared with other devices.\n\n⚠️ To remove your data from iCloud first disable sync on all devices and then use Reset under Sync Settings on one device." = "Your data will not be removed from iCloud but changes will no longer be shared with other devices.\n\n⚠️ To remove your data from iCloud first disable sync on all devices and then use Reset under Sync Settings on one device.";
+
+/* text view */
+"⚡️ Unlimited Items\n⚡️ Multiple Properties" = "⚡️ Unlimited Items\n⚡️ Multiple Properties";
+
+/* message */
+"⚠️ Check your data usage before enabling iCloud and purchase more storage if required. See “Storage” under “iCloud” in the main Settings App for details.\n\nYour data will be moved to iCloud." = "⚠️ Check your data usage before enabling iCloud and purchase more storage if required. See “Storage” under “iCloud” in the main Settings App for details.\n\nYour data will be moved to iCloud.";
+
+/* message */
+"⚠️ To sync both devices must be using the same 4-digit WiFi code and the Home Contents app must be opened on both devices at the same time." = "⚠️ To sync both devices must be using the same 4-digit WiFi code and the Home Contents app must be opened on both devices at the same time.";
+
+/* message */
+"⚠️ WARNING: Before removing sync data from iCloud please ensure you have disabled iCloud syncing on all copies of Home Contents. You should also wait several minutes before re-enabling sync." = "⚠️ WARNING: Before removing sync data from iCloud please ensure you have disabled iCloud syncing on all copies of Home Contents. You should also wait several minutes before re-enabling sync.";
+
+/* message */
+"⚠️ WARNING: Detailed logging should only be used for short periods of time and when specifically requested by our support team." = "⚠️ WARNING: Detailed logging should only be used for short periods of time and when specifically requested by our support team.";
+
+/* message */
+"⚠️ WARNING: New categories will not appear in the list because “Show Empty Categories” in the Advanced settings screen is off." = "⚠️ WARNING: New categories will not appear in the list because “Show Empty Categories” in the Advanced settings screen is disabled.";
